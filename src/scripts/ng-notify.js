@@ -10,7 +10,7 @@
      * @description
      *
      * This module provides any AngularJS application with a simple, lightweight
-     * system for displaying notifications of varying degree to it's users.
+     * system for displaying notifications of varying degree to its users.
      *
      */
     var module = angular.module('ngNotify', []);
